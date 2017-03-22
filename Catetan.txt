@@ -1,0 +1,22 @@
+Definisikan Projeknya ngapain, fiturnya apa
+setelah itu create projek do lepi masing " dan github
+patikan github di clone atau temen projeknya invite
+
+gunanya github, ntar kalau keluar dari itera
+ditanya projeknya apa aja, makanya di cek di github pas ditanya 
+perusahaaan
+
+laporkan, sebelum presentasi
+buat ppt
+
+push
+clone
+
+
+---------------------------
+minggu depan sudah interface
+design berdasarkan fitur yg kita definisikan
+
+baru codingg
+
+================================================================
